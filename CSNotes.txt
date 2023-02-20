@@ -1,0 +1,23 @@
+############################################################
+#      Gitbash Command Notes                               #
+############################################################
+This is gitbash notes
+NO SPACES(Directory&File Names) _, - , CamelCase or 
+camelCase(NEVER DO LOWERCASE AFTER FIRST WORD)
+When opening Gitbash issue a pwd(Present Working Directory) 
+meaning where am I currently
+ls - la listing all of my files and directories within 
+my pwd(is more in depth)
+ls listing all of my files and directories within my 
+cd means change directory & tab finishes or shows what 
+files I can choose from
+mkdir = make directory + name 
+############################################################
+#      GGGGG                                               #
+############################################################
+This is coding tip
+
+############################################################
+#      GGGGG                                               #
+############################################################
+This is ideas
